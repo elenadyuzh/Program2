@@ -43,3 +43,12 @@ else
 {
  Console.WriteLine ("Число нечетное");    
 }
+
+Задача 8
+Console.WriteLine ("Введите число");
+int number = ConvertToInt32 (Console.ReadLine ());
+int number = n;
+if (n == 1; n < N; n++; n % 2 == 0)
+{
+  Console.WriteLine (n);   
+}
